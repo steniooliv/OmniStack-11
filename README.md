@@ -6,7 +6,7 @@
 Be The Hero é uma aplicação web e mobile, disponibilizado na Semana OnmiStack 11.0 da Rocketseat, criado para ajudar ONGs a arrecadação de valores para cobrir os gastos com as causas. No nosso projeto temos como exemplo uma ONG que cuida de animais que sofrem acidente ou mals tratos e tenha que passar por algum procedimento. Os casos são listados e detalhados no qual qualquer pessoa que queria ajudar possa entrar em contato com a ONG e ajudar no caso específico.
 
 ## Ferramentas Utilizadas
-- Back-end: Node.js, Knex.js
+- Back-end: Node.js, Knex.js, Insomnia
 - Front-end: React, React-Native, React-Navigation, Axios
 - Mobile: Expo
 
