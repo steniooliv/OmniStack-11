@@ -7,7 +7,7 @@ Be The Hero é uma aplicação web e mobile, disponibilizado na Semana OnmiStack
 
 ## Ferramentas Utilizadas
 - Back-end: Node.js, Knex.js
-- Front-end: React, React-Native, Axios
+- Front-end: React, React-Native, React-Navigation, Axios
 - Mobile: Expo
 
 ## Utilizando o Repositório
