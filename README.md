@@ -13,5 +13,6 @@ Be The Hero é uma aplicação web e mobile, disponibilizado na Semana OnmiStack
 ## Utilizando o Repositório
 Para utilizar essa aplicação basta clonar o repositório e executar o comando:
 `npm install`
+<br>
 Serão instaladas as dependências e o servidor npm pode ser inicializado com o comando:
 `npm start`
