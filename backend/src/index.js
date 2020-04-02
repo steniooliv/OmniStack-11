@@ -1,8 +1,7 @@
 //importar o express para dentro do projeto
 const express = require('express');
-
 const cors = require('cors');
-
+const {errors} = require('celebrate');
 const routes = require('./routes');
 
 //criar a aplicação
@@ -42,6 +41,8 @@ app.use(express.json());
     */
 
 app.use(routes);
+
+app.use(errors());
 
 //porta pela qual vai ser acessada a aplicação
 app.listen(3333);
