@@ -16,3 +16,8 @@ Para utilizar essa aplicação basta clonar o repositório e executar o comando:
 <br>
 Serão instaladas as dependências e o servidor npm pode ser inicializado com o comando:
 `npm start`
+
+## Mobile
+Para usar a aplicação no IOS ou Android, instalar o aplicativo do Expo no celular, executar o expo no terminal dentro da pasta /mobile.
+`expo start`
+Ao abrir o navegador, ler o QrCode com o aplicativo no celular para iniciar a aplicação.
