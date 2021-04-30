@@ -33,7 +33,7 @@ export default function Register() {
       alert(`Seu ID de acesso: ${response.data.id}`);
       history.push('/');
     } catch (err) {
-      alert('Erro no cadastro, tente novamente.');
+      alert(`${err}Erro no cadastro, tente novamente.`);
     }
 
   }
@@ -49,7 +49,7 @@ export default function Register() {
 
           <Link className="black-link" to="/">
           <FiArrowLeft size={16} color="#E02041" />
-          Não tenho cadastro
+          Já tenho cadastro
           </Link>
 
         </section>
